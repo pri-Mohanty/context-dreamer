@@ -240,11 +240,3 @@ context-dreamer
 ```
 
 ---
-
-## Author
-
-**Priyanshu Mohanty**
-
-Research interests: Mechanistic Interpretability · Representation Learning · LLM Safety · Controllable Generation
-
-GitHub: [https://github.com/pri-Mohanty](https://github.com/pri-Mohanty)
